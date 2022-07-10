@@ -1,0 +1,3 @@
+ {
+    "mongoURI": "mongodb+srv://userone:userone@ictakfiles.tqdqiuh.mongodb.net/LIBRARYAPP?retryWrites=true&w=majority"
+  }
